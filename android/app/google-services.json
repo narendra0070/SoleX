@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934729990796",
+    "project_id": "solex-72c53",
+    "storage_bucket": "solex-72c53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934729990796:android:29ea0470e125e5b89631a9",
+        "android_client_info": {
+          "package_name": "com.example.solex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY2UqO1rvxrxZAS8SulwcQEq4jgyygDmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
